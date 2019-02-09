@@ -17,4 +17,5 @@ target/
 # Maven
 log/
 target/
-
+*this is my new file created
+somefolder/
